@@ -36,9 +36,9 @@ masternodecoins : https://masternodecoins.me/zenad
 <tr><td>Phase 3</td><td align="center">7001-10000</td><td align="right">120 ZND</td><td align="center">75%</td><td align="center">25%</td></tr>
 <tr><td>Phase 4</td><td align="center">10001-16000</td><td align="right">160 ZND</td><td align="center">75%</td><td align="center">25%</td></tr>
 <tr><td>Phase 5</td><td align="center">16001-20000</td><td align="right">200 ZND</td><td align="center">75%</td><td align="center">25%</td></tr>
-<tr><td>Phase 6</td><td align="center">20001-24000</td><td align="right">160 ALS</td><td align="center">75%</td><td align="center">25%</td></tr>
-<tr><td>Phase 7</td><td align="center">24001-30000</td><td align="right">120 ALS</td><td align="center">75%</td><td align="center">25%</td></tr>
-<tr><td>Phase 8</td><td align="center">30001-infinite</td><td align="right">80 ALS</td><td align="center">75%</td><td align="center">25%</td></tr>
+<tr><td>Phase 6</td><td align="center">20001-24000</td><td align="right">160 ZND</td><td align="center">75%</td><td align="center">25%</td></tr>
+<tr><td>Phase 7</td><td align="center">24001-30000</td><td align="right">120 ZND</td><td align="center">75%</td><td align="center">25%</td></tr>
+<tr><td>Phase 8</td><td align="center">30001-infinite</td><td align="right">80 ZND</td><td align="center">75%</td><td align="center">25%</td></tr>
 </table>
 
 ***
